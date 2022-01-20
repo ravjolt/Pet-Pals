@@ -1,0 +1,1 @@
+web: gunicorn Pet-Pals.app:app
